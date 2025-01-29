@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&repeat=false&width=550&lines=%3CWelcome+to+my+coding+universe!+%F0%9F%91%8F%F0%9F%9A%80%3E)](https://git.io/typing-svg)
-
+<br>
 
 ### 💻 Tecnologias e Linguagens
 
@@ -82,4 +82,31 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+/><br><br><br>
+
+## 📊 Estatísticas 📈
+
+<p>
+  <img 
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=rodrigomazucato&show_icons=true&theme=algolia&include_all_commits=true"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    alt="Top Languages"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomazucato&theme=algolia&layout=compact&langs_count=9"
+  />
+</p>
+
+
+## 🚀 Progresso no GitHub 🔥
+
+<p>
+  <img 
+    align="center"
+    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigomazucato&theme=algolia&hide_border=false"
+  />
+</p>
