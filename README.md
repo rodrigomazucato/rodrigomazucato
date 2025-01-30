@@ -6,6 +6,7 @@
 <br><br><br>
 
 ## 💻 Tecnologias e Linguagens 🌍
+
 <div>
   <img 
       align="left" 
@@ -53,6 +54,7 @@
 <br><br>
 
 ## 📚 Frameworks e Bibliotecas 📚
+
 <div>
   <img 
       align="left" 
@@ -101,6 +103,7 @@
 <br><br>
 
 ## 🎲 Bancos de Dados 🎲
+
 <div>
   <img 
       align="left" 
@@ -128,6 +131,7 @@
 <br><br>
 
 ## 🛠️ Ferramentas 🛠️
+
 <div>
   <img 
       align="left" 
@@ -152,9 +156,10 @@
   />
 </div>
 
-<br><br><br>
+<br><br>
 
 ## 📊 Estatísticas 📈
+
 <p>
   <img 
     alt="GitHub Stats"
@@ -169,7 +174,8 @@
   />
 </p>
 
-## 🚀 Progresso no GitHub 🔥
+## 🚀 Minhas contribuições 🔥
+
 <p>
   <img 
     align="center"
@@ -177,3 +183,9 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigomazucato&theme=algolia&hide_border=false"
   />
 </p>
+
+<br>
+
+## 🔄 Progresso no GitHub 🔄
+
+![snake animation](https://github.com/rodrigomazucato/rodrigomazucato/blob/output/github-contribution-grid-snake-dark.svg)
