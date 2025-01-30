@@ -5,10 +5,9 @@
 </div>
 <br><br><br>
 
-
-
 ## 🌟 Muito prazer! Eu sou o <strong>Rodrigo</strong>! &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="31" height="31" />
-- 💻 Estudante de <strong>Sistemas de Informação</strong> na <strong>IMPACTA</strong>.
+
+- 💻 Estudante de <strong>Sistemas de Informação</strong> na <strong>Faculdade IMPACTA</strong>.
 - 🎓 Formado em <strong>Desenvolvimento de Sistemas</strong> pela <strong>ETEC</strong>.
 - 🎯 Sempre em busca de novos desafios para evoluir como Dev.
 <br><br>
