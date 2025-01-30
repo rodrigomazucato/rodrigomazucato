@@ -1,9 +1,17 @@
 <br>
 <div>
     <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=33&duration=3000&pause=1000&color=1E90FF&vCenter=true&repeat=false&width=720&lines=%3CWelcome+to+my+coding+universe!+%F0%9F%8C%8D+%F0%9F%9A%80%3E" align="left" />
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" align="left"/>
+    
 </div>
 <br><br><br>
+
+
+
+## 🌟 Muito prazer! Eu sou o <strong>Rodrigo</strong>! &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="31" height="31" />
+- 💻 Estudante de <strong>Sistemas de Informação</strong> na <strong>IMPACTA</strong>.
+- 🎓 Formado em <strong>Desenvolvimento de Sistemas</strong> pela <strong>ETEC</strong>.
+- 🎯 Sempre em busca de novos desafios para evoluir como Dev.
+<br><br>
 
 ## 💻 Tecnologias e Linguagens 🌍
 
@@ -186,6 +194,6 @@
 
 <br>
 
-## 🔄 Progresso no GitHub 🔄
+## 🔄 Evoluindo a cada commit! 🔄
 
 ![snake animation](https://github.com/rodrigomazucato/rodrigomazucato/blob/output/github-contribution-grid-snake-dark.svg)
