@@ -191,8 +191,6 @@
   />
 </p>
 
-<br>
-
 ## 🔄 Evoluindo a cada commit! 🔄
 
 ![snake animation](https://github.com/rodrigomazucato/rodrigomazucato/blob/output/github-contribution-grid-snake-dark.svg)
