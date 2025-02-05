@@ -173,8 +173,7 @@
   />
 </p>
 
-## 🚀 Minhas contribuições 🔥
-
+## 🔄 Evoluindo a cada commit! 🔥
 <p>
   <img 
     align="center"
@@ -182,7 +181,5 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigomazucato&theme=algolia&hide_border=false"
   />
 </p>
-
-## 🔄 Evoluindo a cada commit! 🔄
 
 ![snake animation](https://github.com/rodrigomazucato/rodrigomazucato/blob/output/github-contribution-grid-snake-dark.svg)
