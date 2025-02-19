@@ -97,13 +97,6 @@
 />
 <img 
   align="left" 
-  alt="SQLAlchemy" 
-  title="SQLAlchemy"
-  height="28px"
-  src="https://img.shields.io/badge/SQLAlchemy-4F5B93?logo=sqlalchemy&logoColor=white&style=for-the-badge"
-/>
-<img 
-  align="left" 
   alt="React Native"
   title="React Native" 
   height="28px"
@@ -114,13 +107,6 @@
 
 ## 🎲 Bancos de Dados 🎲
 
-<img 
-  align="left" 
-  alt="Microsoft SQL Server" 
-  title="Microsoft SQL Server"
-  height="28px"
-  src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge"
-/>
 <img 
   align="left" 
   alt="MySQL" 
@@ -134,6 +120,20 @@
   title="SQLite"
   height="28px"
   src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge"
+/>
+<img 
+  align="left" 
+  alt="SQLAlchemy" 
+  title="SQLAlchemy"
+  height="28px"
+  src="https://img.shields.io/badge/SQLAlchemy-4F5B93?logo=sqlalchemy&logoColor=white&style=for-the-badge"
+/>
+<img 
+  align="left" 
+  alt="Microsoft SQL Server" 
+  title="Microsoft SQL Server"
+  height="28px"
+  src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge"
 />
 
 <br><br>
