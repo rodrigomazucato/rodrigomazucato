@@ -116,6 +116,13 @@
 />
 <img 
   align="left" 
+  alt="Microsoft SQL Server" 
+  title="Microsoft SQL Server"
+  height="28px"
+  src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge"
+/>
+<img 
+  align="left" 
   alt="SQLite" 
   title="SQLite"
   height="28px"
@@ -127,13 +134,6 @@
   title="SQLAlchemy"
   height="28px"
   src="https://img.shields.io/badge/SQLAlchemy-4F5B93?logo=sqlalchemy&logoColor=white&style=for-the-badge"
-/>
-<img 
-  align="left" 
-  alt="Microsoft SQL Server" 
-  title="Microsoft SQL Server"
-  height="28px"
-  src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge"
 />
 
 <br><br>
