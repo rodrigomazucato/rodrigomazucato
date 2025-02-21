@@ -56,6 +56,13 @@
   height="28px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+<img 
+  align="left" 
+  alt="Kotlin" 
+  title="Kotlin"
+  height="28px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
 <br><br>
 
 ## 📚 Frameworks e Bibliotecas 📚
